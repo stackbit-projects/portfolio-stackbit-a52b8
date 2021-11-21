@@ -3,9 +3,7 @@ title: Home
 sections:
   - type: hero_section
     title: Let’s Work TogetherTo Build Something Great.
-    subtitle: >-
-      I will handle your website design and production, social media accounts
-      and digital advertisements for you, at an affordable price.
+    subtitle: "Hi, I'm Shayel Magnezi.I'm a passionate full-stack developer and designer.\_Always seeking to use my large variety of skills and make things better."
     actions:
       - label: Contact Me
         url: /contact
